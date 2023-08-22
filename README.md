@@ -1,4 +1,4 @@
-# SignalA_up
+# finEvent
 
 [![Build Status](https://app.travis-ci.com/Anotherlynn/Lynns-work-file-.svg?branch=main)]()
 ![](https://img.shields.io/badge/powered%20by-@XinyiLi-green.svg)
@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/version-Python3.10-green.svg)
 --------------------------------------------------------------------------------
 
-The SignalA_up provides models and functions to analyse temporary announcements from companies on stock market. 
+The finEvent provides models and functions to analyze temporary announcements from companies on the stock market. 
 
-Different LLMs, embeddings methods, testing models and convenient tools, such as access to the OpenAI API, are included, written in the Python language.
+Different LLMs, embedding methods, testing models, and convenient tools, such as access to the OpenAI API, are included, written in the Python language.
 
 You can find usage examples [here](examples.py).
 
